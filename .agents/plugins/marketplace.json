@@ -1,0 +1,6 @@
+{
+  "name": "vedi-local",
+  "plugins": [
+    { "name": "docs-bundle", "source": { "source": "local", "path": "./docs-bundle" } }
+  ]
+}

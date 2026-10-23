@@ -1,0 +1,11 @@
+{
+  "name": "docs-bundle",
+  "version": "1.0.0",
+  "description": "Documentation skills bundle (API, architecture/C4, README, wiki, changelog) from agentic-awesome-skills v19.15.0.",
+  "keywords": ["documentation", "skills", "readme", "api-docs", "wiki"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Docs Bundle",
+    "shortDescription": "28 documentation skills: API docs, C4, README, wiki, changelog"
+  }
+}
