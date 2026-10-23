@@ -1,0 +1,12 @@
+{
+  "name": "vedi-docs",
+  "description": "Documentation skills bundle",
+  "owner": { "name": "vnbd" },
+  "plugins": [
+    {
+      "name": "docs-bundle",
+      "source": "./docs-bundle",
+      "description": "28 documentation skills: API docs, C4, README, wiki, changelog"
+    }
+  ]
+}
